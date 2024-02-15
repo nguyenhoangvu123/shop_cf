@@ -1,0 +1,28 @@
+.item_attr {
+    gap: 20px;
+    margin-top: 10px;
+}
+
+.remove_item_attr,.remove_item_category {
+    display: flex;
+    align-items: center;
+}
+
+.remove_item_attr span {
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+
+}
+
+.remove_item_category span {
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+
+}
+
